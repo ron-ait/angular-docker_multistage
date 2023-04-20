@@ -1,1 +1,1 @@
-# angular-docker_multistage
+# angular_project_ec2
